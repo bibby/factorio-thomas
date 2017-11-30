@@ -1,0 +1,10 @@
+{
+  "name": "really_useful_engine",
+  "version": "0.0.1",
+  "factorio_version": "0.15",
+  "title": "Really Useful Engines",
+  "author": "bibby",
+  "contact": "https://github.com/bibby",
+  "homepage": "https://github.com/bibby/factorio-thomas",
+  "description": "Adds friendly locomotives"
+}
