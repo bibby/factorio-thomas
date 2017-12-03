@@ -10,10 +10,10 @@ globals.train_entities = {
 }
 
 globals.train_talk = {
-  thomas=10,
-  emily=0,
-  james=0,
-  percy=3,
-  gordon=4,
-  spencer=0,
+  thomas=11,
+  emily=5,
+  james=5,
+  percy=5,
+  gordon=8,
+  spencer=5,
 }
