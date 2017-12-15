@@ -205,6 +205,7 @@ rue_proto = {
     }
   },
   icon = "",
+  icon_size=32,
   joint_distance = 4,
   max_health = 1000,
   max_power = "600kW",
@@ -314,7 +315,7 @@ rue_proto = {
   },
   stop_trigger = {
     {
-      entity_name = "smoke-train-stop",
+      smoke_name = "smoke-train-stop",
       initial_height = 0,
       offset_deviation = {
         {
@@ -333,10 +334,10 @@ rue_proto = {
       },
       speed_multiplier = 0.75,
       speed_multiplier_deviation = 1.1000000000000001,
-      type = "create-smoke"
+      type = "create-trivial-smoke"
     },
     {
-      entity_name = "smoke-train-stop",
+      smoke_name = "smoke-train-stop",
       initial_height = 0,
       offset_deviation = {
         {
@@ -355,7 +356,7 @@ rue_proto = {
       },
       speed_multiplier = 0.75,
       speed_multiplier_deviation = 1.1000000000000001,
-      type = "create-smoke"
+      type = "create-trivial-smoke"
     },
     {
       sound = {

@@ -3,6 +3,7 @@ function rue_item(name, order)
     type="item",
     name=string.format("%s-train", name),
     icon=string.format("__really_useful_engine__/graphics/%s-icon.png", name),
+    icon_size=32,
     flags={"goes-to-main-inventory"},
     group="logistics",
     subgroup="transport",
