@@ -11,7 +11,7 @@ globals.train_entities = {
 
 globals.train_talk = {
   thomas=11,
-  emily=5,
+  emily=9,
   james=5,
   percy=5,
   gordon=8,
